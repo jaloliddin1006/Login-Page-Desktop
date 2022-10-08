@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="image">
+    <file>visibility_off_white_24dp.svg</file>
+    <file>visibility_white_24dp.svg</file>
+    <file>arrow-up-circle.svg</file>
+    <file>check-circle (1).svg</file>
+    <file>x-circle (1).svg</file>
+    <file>fon.jpg</file>
+    <file>ICT_academy_02.png</file>
+  </qresource>
+</RCC>
